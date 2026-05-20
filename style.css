@@ -44,3 +44,12 @@
   top: 9%;
   left: 49%;
 }
+#disk {
+  width: 8%;
+  height: 8%;
+  background-color: black;
+  position: absolute;
+  top: 46%;
+  left: 46%;
+  border-radius: 80%;
+}
